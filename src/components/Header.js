@@ -126,6 +126,7 @@ const Logo = styled.a`
   max-height: 70px;
   font-size: 0;
   display: inline-block;
+  cursor: pointer;
 
   img {
     display: block;
@@ -206,6 +207,7 @@ const Login = styled.a`
   border: 1px solid #f9f9f9;
   border-radius: 4px;
   transition: all 0.2s ease 0s;
+  cursor: pointer;
 
   &:hover {
     background-color: #f9f9f9;
