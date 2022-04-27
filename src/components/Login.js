@@ -5,13 +5,12 @@ const Login = (props) => {
     <Container>
       <Content>
         <CTA>
-          <CTALogoOne src="/images/cta-logo-one.svg" alt="" />
+          <CTALogoOne src="/images/cta-logo-one.svg" alt="cta-logo-one" />
           <SignUp>GET ALL THERE</SignUp>
           <Description>
             Stream now. Terms Apply.
           </Description>
-          <CTALogoTwo src="/images/cta-logo-two.png" alt="" />
-        </CTA>
+          <CTALogoTwo src="/images/cta-logo-two.png" alt="cta-logo-two" /></CTA>
         <BgImage />
       </Content>
     </Container>
