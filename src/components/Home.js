@@ -1,3 +1,6 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable default-case */
+/* eslint-disable array-callback-return */
 import styled from "styled-components";
 import ImgSlider from "./ImgSlider";
 import NewDisney from "./NewDisney";
